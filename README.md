@@ -1,6 +1,6 @@
 # Kana Kuizu
 
-https://kana-kuizu.web.app/
+https://takibyte.github.io/kana-kuizu
 
 ## Description
 
