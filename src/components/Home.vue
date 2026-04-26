@@ -55,7 +55,7 @@ function start_quiz() {
 }
 
 h1 {
-  font-family: 'Silkscreen', cursive;
+  font-family: 'Silkscreen', Helvetica, sans-serif;
   color: #000;
   font-weight: 200;
   font-size: 2.5rem;

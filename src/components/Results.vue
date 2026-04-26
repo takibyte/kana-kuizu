@@ -54,7 +54,7 @@ function home() {
 }
 
 h1 {
-    font-family: 'Silkscreen', cursive;
+    font-family: 'Silkscreen', Helvetica, sans-serif;
     font-size: 2.5rem;
     font-weight: 400;
     margin: 0px; 
